@@ -1,0 +1,99 @@
+[
+    {
+      "projectId": 1,
+      "title": "Advanced Slope Failure Investigations",
+      "location": "I220, Jackson, Mississippi",
+      "description": "Experience the ultimate luxury living with breathtaking ocean views in this stunning beach house located in Malibu.",
+      "shortDescription": "Luxury beach house with breathtaking ocean views in Malibu, California.",
+      "images": [
+        { "imageUrl": "https://i.ibb.co/gJJghFk/1.jpg", "caption": "Failure of the Highway Slope along I220s in Jackson, MS" },
+        { "imageUrl": "https://i.ibb.co/nm1gfs2/2.png", "caption": "3D LiDAR Point Cloud to Monitor Slope Movement" },
+        { "imageUrl": "https://i.ibb.co/02NLvMG/3.png", "caption": "3D  ERI results of thee Failed Highway Slope" }
+      ],
+      "descriptionArray": [
+        "Multiple Highway slope has been investigated using Advanced landslide investigation method using ERI, LiDAR and Drone Technology",
+        "The extent and depth of the failure was determined using LiDAR point cloud.",
+        "The moisture variations and release of pore water pressure was evaluated using 3D ERI profile."
+      ]
+    },
+    {
+      "projectId": 2,
+      "title": "Investigation of Seepage Location in Levee Section",
+      "location": "Houston, Texas",
+      "description": "Escape to this cozy mountain retreat nestled in the heart of Aspen, Colorado. Enjoy skiing, hiking, and relaxation in this beautiful cabin.",
+      "shortDescription": "Cozy mountain retreat in Aspen, Colorado.",
+      "images": [
+        { "imageUrl": "https://i.ibb.co/PT0nr16/1.png", "caption": "" },
+        { "imageUrl": "https://i.ibb.co/34fHYFy/2.png", "caption": "Layout of the ERI lines at the Top of Levee Section" },
+        { "imageUrl": "https://i.ibb.co/hMvQbfP/3.png", "caption": "2D ERI Test Results" }
+      ],
+      "descriptionArray": [
+        "ERI results are effectively utilized to determine the locations of the Seepage Locations within the levee sections.",
+        "Confirmatory Soil Drilling was performed based on ERI test results."
+      ]
+    },
+    {
+        "projectId": 3,
+        "title": "Investigation of Seepage Location in Levee Section",
+        "location": "Houston, Texas",
+        "description": "Escape to this cozy mountain retreat nestled in the heart of Aspen, Colorado. Enjoy skiing, hiking, and relaxation in this beautiful cabin.",
+        "shortDescription": "Cozy mountain retreat in Aspen, Colorado.",
+        "images": [
+          { "imageUrl": "https://i.ibb.co/PT0nr16/1.png", "caption": "" },
+          { "imageUrl": "https://i.ibb.co/34fHYFy/2.png", "caption": "Layout of the ERI lines at the Top of Levee Section" },
+          { "imageUrl": "https://i.ibb.co/hMvQbfP/3.png", "caption": "2D ERI Test Results" }
+        ],
+        "descriptionArray": [
+          "ERI results are effectively utilized to determine the locations of the Seepage Locations within the levee sections.",
+          "Confirmatory Soil Drilling was performed based on ERI test results."
+        ]
+      },
+      {
+        "projectId": 4,
+        "title": "Investigation of Seepage Location in Levee Section",
+        "location": "Houston, Texas",
+        "description": "Escape to this cozy mountain retreat nestled in the heart of Aspen, Colorado. Enjoy skiing, hiking, and relaxation in this beautiful cabin.",
+        "shortDescription": "Cozy mountain retreat in Aspen, Colorado.",
+        "images": [
+          { "imageUrl": "https://i.ibb.co/PT0nr16/1.png", "caption": "" },
+          { "imageUrl": "https://i.ibb.co/34fHYFy/2.png", "caption": "Layout of the ERI lines at the Top of Levee Section" },
+          { "imageUrl": "https://i.ibb.co/hMvQbfP/3.png", "caption": "2D ERI Test Results" }
+        ],
+        "descriptionArray": [
+          "ERI results are effectively utilized to determine the locations of the Seepage Locations within the levee sections.",
+          "Confirmatory Soil Drilling was performed based on ERI test results."
+        ]
+      },
+      {
+        "projectId": 5,
+        "title": "Investigation of Seepage Location in Levee Section",
+        "location": "Houston, Texas",
+        "description": "Escape to this cozy mountain retreat nestled in the heart of Aspen, Colorado. Enjoy skiing, hiking, and relaxation in this beautiful cabin.",
+        "shortDescription": "Cozy mountain retreat in Aspen, Colorado.",
+        "images": [
+          { "imageUrl": "https://i.ibb.co/PT0nr16/1.png", "caption": "" },
+          { "imageUrl": "https://i.ibb.co/34fHYFy/2.png", "caption": "Layout of the ERI lines at the Top of Levee Section" },
+          { "imageUrl": "https://i.ibb.co/hMvQbfP/3.png", "caption": "2D ERI Test Results" }
+        ],
+        "descriptionArray": [
+          "ERI results are effectively utilized to determine the locations of the Seepage Locations within the levee sections.",
+          "Confirmatory Soil Drilling was performed based on ERI test results."
+        ]
+      },
+      {
+        "projectId": 6,
+        "title": "Investigation of Seepage Location in Levee Section",
+        "location": "Houston, Texas",
+        "description": "Escape to this cozy mountain retreat nestled in the heart of Aspen, Colorado. Enjoy skiing, hiking, and relaxation in this beautiful cabin.",
+        "shortDescription": "Cozy mountain retreat in Aspen, Colorado.",
+        "images": [
+          { "imageUrl": "https://i.ibb.co/PT0nr16/1.png", "caption": "" },
+          { "imageUrl": "https://i.ibb.co/34fHYFy/2.png", "caption": "Layout of the ERI lines at the Top of Levee Section" },
+          { "imageUrl": "https://i.ibb.co/hMvQbfP/3.png", "caption": "2D ERI Test Results" }
+        ],
+        "descriptionArray": [
+          "ERI results are effectively utilized to determine the locations of the Seepage Locations within the levee sections.",
+          "Confirmatory Soil Drilling was performed based on ERI test results."
+        ]
+      }
+  ]
