@@ -23,6 +23,7 @@ import Certifications from './components/Pages/About/Certifications';
 import History from './components/Pages/About/History'
 import Company from './components/Pages/About/OurCompany'
 import Projects from './components/Pages/Projects';
+import Details from './components/Pages/DetailsProjects'
 
 
 const router = createBrowserRouter([
@@ -76,6 +77,10 @@ const router = createBrowserRouter([
         element:<Projects></Projects>
         
       },
+      {
+        path:'projects/:id',
+        element:<Details></Details>
+      }
 
       
       

@@ -1,5 +1,6 @@
 import React from 'react';
 import { useRef } from "react";
+import { Helmet } from 'react-helmet-async';
 
 import Swal from "sweetalert2";
 
@@ -32,6 +33,10 @@ const Contact = () => {
 
     return (
         <div className="min-h-screen my-auto mt-5 md:mt-10 lg:mt-20">
+            <Helmet>
+        <title>Page Title</title>
+        <meta name="description" content="Description of the page" />
+</Helmet>
             <div className="flex justify-center items-center bg-blue-50">
                 <div className="container mx-auto my-4 px-4 lg:px-20">
                     <div className="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">

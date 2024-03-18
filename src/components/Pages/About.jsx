@@ -1,10 +1,16 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { AiOutlineInfoCircle, AiOutlineHistory, AiOutlineTeam, AiOutlineFileText } from 'react-icons/ai';
+import { Helmet } from 'react-helmet-async';
+
 
 const AboutUs = () => {
     return (
         <div className="container mx-auto mt-10">
+            <Helmet>
+        <title>Page Title</title>
+        <meta name="description" content="Description of the page" />
+</Helmet>
             <h1 className="text-4xl text-center text-blue-500 mb-8">About Us</h1>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                 <div className="bg-blue-200 p-6 rounded-lg shadow-md flex flex-col items-center justify-center">
