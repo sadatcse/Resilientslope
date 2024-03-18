@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-
+import data from '../../../public/Projects.json';
+import { Helmet } from 'react-helmet-async';
 const DetailsProjects = () => {
     const [projectDetails, setProjectDetails] = useState(null);
 
@@ -9,8 +10,8 @@ const DetailsProjects = () => {
     useEffect(() => {
         const fetchProjectDetails = async () => {
           try {
-            const response = await fetch(`../../../public/Projects.json`);
-            const data = await response.json();
+            // const response = await fetch(`../../../public/Projects.json`);
+            // const data1 = await response.json();
    
             const details = data.find(project => project.projectId == id);
             setProjectDetails(details);
@@ -136,6 +137,10 @@ else if (imageCount === 4) {
 
     return (
         <div className="container mx-auto px-4 py-8 text-left">
+                  <Helmet>
+        <title>Page Title</title>
+        <meta name="description" content="Description of the page" />
+      </Helmet>
             {projectDetails && (
                 <>
                     <h1 className="text-3xl font-bold mb-4">PROJECT HIGHLIGHTS: {projectDetails.title}</h1>
